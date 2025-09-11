@@ -1,0 +1,35 @@
+/* ----- Comentário em CSS ----- */
+/* ----- Seletores de CSS ----- */
+
+/* ----- Seletor Tag HTML ----- */
+body {
+    background-color: #ECCFC3;
+}
+
+ul {
+    list-style: disc; /* Define o marcador como um ponto (bolinha) */
+  }
+  
+  ul li::marker {
+    color: #7E1F86; /* Define a cor da bolinha para vermelho */
+  }
+
+/* ----- Seletor Class ----- */
+.titulo-1 {
+    color: #7E1F86 ;
+}
+
+.dados-pessoais {
+    color:#7E1F86;
+}
+
+.flores {
+    width: 400px;
+    height: 350px;
+}
+.titulo-ferias {
+    color:#7E1F86;
+}  
+.ferias {
+    color:#A14DA0;
+}

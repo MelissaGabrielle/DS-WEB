@@ -1,0 +1,34 @@
+.subtitulo1{
+    color: crimson;
+}
+.subtitulo2{
+    color: crimson;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px; /* espaço interno */
+    text-align: center; /* centralizar texto */
+}
+table{
+    border-collapse: collapse;
+}
+tr:nth-child(even) { /* linhas pares */
+    background-color: #f9f9f9;
+    }
+tr:nth-child(odd){
+    background-color: #100e0e;
+}
+h3{
+    color: red;
+}
+.t01{
+    color: white;
+}
+.t02{
+    color: black;
+}
+.t03{
+    color: white;
+}
