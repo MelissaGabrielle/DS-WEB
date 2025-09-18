@@ -1,0 +1,102 @@
+
+.Div1 {
+    display: inline-block;
+    background-color: rgb(250, 4, 4);
+    height: 40px;
+    width: 120px;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    border: 3px solid black;
+}
+
+.Div2 {
+    display: inline-block;
+    background-color: rgb(253, 140, 1);
+    height: 40px;
+    width: 120px;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    border: 3px dotted black;
+}
+
+.Div3 {
+    display: inline-block;
+    background-color: rgb(249, 229, 2);
+    height: 40px;
+    width: 120px;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    border: 3px double black;
+}
+
+.Div4 {
+    display: inline-block;
+    background-color: rgb(85, 251, 2);
+    height: 40px;
+    width: 120px;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    border: 3px dotted black;
+}
+
+.Div5 {
+    display: inline-block;
+    background-color: rgb(0, 254, 190);
+    height: 40px;
+    width: 120px;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    border: 3px solid black;
+}
+
+.Div6 {
+    display: inline-block;
+    background-color: rgb(1, 13, 255);
+    height: 40px;
+    width: 120px;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    border: 3px dotted black;
+}
+
+.Div7 {
+    display: inline-block;
+    background-color: rgb(203, 3, 248);
+    height: 40px;
+    width: 120px;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    border: 3px double black;
+}
+
+.Div8 {
+    display: inline-block;
+    background-color: rgb(255, 0, 195);
+    height: 40px;
+    width: 120px;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    border: 3px dotted black;
+}
+
+.Div9 {
+    display: inline-block;
+    background-color: rgb(255, 0, 98);
+    height: 40px;
+    width: 120px;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    border: 3px solid black;
+}
+.Linha {
+    display: block;
+}

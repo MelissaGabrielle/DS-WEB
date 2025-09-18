@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.DivBanner {
+    background-color: aquamarine;
+    height: 150px;
+    width: 100%;
+}
+
+.DivTítulo {
+    display: inline-block;
+    background-color: bisque;
+    height: 80px;
+    width: 400px;
+    text-align: center;
+    align-content: center;
+    margin-top: 15px;
+    padding: 20px;
+    display: inline-block
+}
