@@ -1,0 +1,18 @@
+.divmaior{
+    height: 400px;
+    width: 300px;
+    background-color: aqua;
+
+    position: relative;
+    top: 0;
+}
+
+.divmenor{
+     height: 100px;
+    width: 100px;
+    background-color: rgb(127, 248, 6);
+    position: absolute;
+    right: 0;
+    bottom: 0; 
+}
+   

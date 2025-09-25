@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .letra {
+    width: 80px;
+    height: 80px;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content:center;
+    text-align: center;
+    margin-bottom: 150px; /* espaço entre as letras */
+    position: sticky;
+    top: 0; /* faz grudar no topo */
+  }
+  
+  /* Cores diferentes para cada letra PRIMEIRO NOME */
+  .M { background: #e74c3c; }
+  .E1 { background: #2980b9; 
+margin-left: 80px;}
+
+  .L1 { background: #27ae60;
+margin-left: 160px; }
+
+  .I1 { background: #8e44ad;
+margin-left: 240px; }
+
+  .S1 { background: #f39c12;
+margin-left: 320px; }
+
+  .S2 { background: #16a085;
+margin-left: 400px; }
+
+  .A1 { background: #de49b1;
+margin-left: 480px; }
+
+  .X  { background-color: aliceblue;
+margin-left: 560px;}
+
+  .G  { background-color: #c893df;
+margin-left: 640px;}
+
+  .A2 { background-color: #0e4a27;
+margin-left: 720px;}
+
+  .B  { background-color: blue;
+margin-left: 800px;}
+
+  .R  { background-color: rgb(225, 67, 10);
+margin-left: 880px;}
+
+  .I2 { background-color: blueviolet;
+margin-left: 960px;}
+
+  .E2 { background-color: darksalmon;
+margin-left: 1040px;}
+
+  .L2 { background-color: rgb(237, 141, 189);
+margin-left: 1120px;}
+
+  .L3 { background-color: darkgray;
+margin-left: 1200px;}
+
+  .E3 { background-color: greenyellow;
+margin-left: 1280px;}
+  .Espaço-Enorme{
+height: 520px;
+  }

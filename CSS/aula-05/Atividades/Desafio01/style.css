@@ -1,0 +1,48 @@
+.titulos {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+}
+
+.menu-fixo {
+    width: 100%;
+    height: 60px;
+    background-color: #ee71c9;
+
+    display: flex;
+    color: #e536a8;
+    justify-content: center;
+    align-items: center;
+   
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.menu-lateral {
+    width: 250px;
+    height: 900px;
+    margin-top: 70px;
+    background-color: #ed4fcd;
+
+    text-align: center;
+    color: #ec9cd6;
+    position: fixed;
+    position: sticky;
+    top: 60px;    
+}
+
+.corpo {
+    margin-top: 70px;
+    margin-left: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
