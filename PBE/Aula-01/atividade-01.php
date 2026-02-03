@@ -13,15 +13,21 @@ class Esmalte {
     //Método
     public function pintar() { 
 
+        return "Você está pintando a unha com um esmalte de cor ".$this->cor;
+
     }
     
     //Método
     public function palitar() { 
 
+        return "Você esta palitando um esmalte da marca ".$this->marca;
+
     }
     
     //Método
-    public function remover() { 
+    public function remover() {
+
+        return "Você está removendo um esmalte do tipo ".$this->tipagem;
 
     }
 }
@@ -39,15 +45,21 @@ class Gloss {
     //Método
     public function fechar() { 
 
+    return "Você está fechando um gloss de formato".$this->formato;
+
     }
     
     //Método
     public function aplicar() { 
 
+         return "Você está aplicando um gloss com cheiro de ".$this->cheiro;
+
     }
     
     //Método
     public function abrir() { 
+
+    return "Você está abrindo um esmalte da marca ".$this->marca;
 
     }
 }
@@ -65,10 +77,14 @@ class Esmalte {
     //Método
     public function abrir() { 
 
+         return "Você está abrindo um rímel da marca ".$this->tipagem;
+
     }
     
     //Método
     public function aplicar() { 
+
+         return "Você está pintando a unha com um esmalte de cor ".$this->cor;
 
     }
     
