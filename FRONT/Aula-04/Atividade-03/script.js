@@ -16,7 +16,7 @@ function adicionar(){
     let turma = document.getElementById("turma").value;
 
     //Adiciono o texto ao meu item
-   novoAluno.textContent = `${contadorAluno} - ${nome} ${email} ${rm} ${telefone} ${turma}`;
+   novoAluno.innerHTML = `${contadorAluno} <br> ${nome} <br> ${email} <br> ${rm}<br> ${telefone}<br> ${turma} <br>`;
     //atribuo um ID
     novoAluno.setAttribute("id", contadorAluno);
 
