@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: #bbaaaa;
+    font-family: sans-serif;
+    overflow: hidden; /* Evita barras de rolagem quando o rato foge */
+}
+
+.area {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 157, 209);
+    border: 2px solid #000000;
+    border-radius: 50%; /* Faz a área ser circular */
+    display: flex;/*é usado para criar layouts flexíveis em elementos que ocupam toda a largura do elemento pai*/
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    /* Importante para o movimento */
+    position: absolute; 
+    
+}
+
+    .mensagem {
+        font-size: 12px;/* deixa bonitinho dentro da bola, sem sair */
+    }
+    
